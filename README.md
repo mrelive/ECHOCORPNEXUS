@@ -1,4 +1,4 @@
-# 🚁 THE FPV NEXUS™ by ECHO CORP
+# THE FPV NEXUS™ by ECHO CORP
 
 > **The Ultimate FPV Command Center** — Where pilots unite technology, precision, and the endless sky.
 
