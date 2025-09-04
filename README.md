@@ -268,6 +268,6 @@ git push origin feature/amazing-improvement
 
 **FIND YOUR FUTURE IN THE SKIES™**
 
-</div>CHOCORPNEXUS
+</div>ECHOCORPNEXUS
 
 This repository contains The FPV NEXUS - By ECHO CORP. If you’re looking for previous experimental Betaflight integration notes, those have been removed as part of a cleanup.
