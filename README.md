@@ -19,7 +19,7 @@ Built for performance. Built for reliability. Built for pilots who demand more.
 - **The Nexus Sky Atlas™** — Discover and share the world’s best fly spots  
 - **The FPV Trick Nexus™** — Learn, master, and catalog FPV maneuvers  
 - **The FPV Tuning Guru™** — AI-powered guidance and optimization  
-- **Integrated Betaflight** — All-in-one, no switching apps  
+ 
 
 ---
 
