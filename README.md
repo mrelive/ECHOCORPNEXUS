@@ -45,7 +45,7 @@ Access key FC and ESC configuration workflows without fragmenting your setup pro
 
 ### Nexus Sky Atlas
 
-Cloud-connected tune ecosystem for discovering, sharing, and learning from proven community setups.
+Cloud-connected FPV map for discovering, sharing, and exploring real flying locations.
 
 ---
 
